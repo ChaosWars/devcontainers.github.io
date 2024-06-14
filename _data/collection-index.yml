@@ -827,4 +827,4 @@
   maintainer: ChaosWars
   contact: https://github.com/ChaosWars/synology-features/issues
   repository: https://github.com/ChaosWars/synology-features/
-  ociReference: ghcr.io/ChaosWars/synology-features
+  ociReference: ghcr.io/chaoswars/synology-features
