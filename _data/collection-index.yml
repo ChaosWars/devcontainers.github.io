@@ -961,4 +961,9 @@
   maintainer: David Zucker
   contact: https://github.com/davzucky/devcontainers-features-wolfi/issues
   repository: https://github.com/davzucky/devcontainers-features-wolfi
-  ociReference: ghcr.io/davzucky/devcontainers-features-wolfi  
+  ociReference: ghcr.io/davzucky/devcontainers-features-wolfi
+- name: devcontainer features by ChaosWars
+  maintainer: ChaosWars
+  contact: https://github.com/ChaosWars/vscode-features/issues
+  repository: https://github.com/ChaosWars/vscode-features
+  ociReference: ghcr.io/chaoswars/vscode-features
